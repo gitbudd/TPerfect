@@ -13,6 +13,7 @@ public class Driver {
 		System.out.println("This is line 1 in driver");
 		System.out.println("This is line 2 in driver");
 System.out.println("This is line 2 in driverPTest");
+System.out.println("This is line 2 in driverPTestChild");
 		
 		System.out.println("Test 1");
 		System.out.println("Test 2");
